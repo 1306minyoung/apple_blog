@@ -73,4 +73,5 @@ function Modal(props) { //Modal은 컴포넌트....
 }
 
 //수정 함 해봣더욤
+//북북따리 북북따
 export default App
