@@ -43,7 +43,7 @@ function App() {
       }
       
       {
-        modal == true ? <Modal color={'pink'} 글제목={글제목} 글제목변경={글제목변경}/> : null
+        modal == true ? <Modal color={'yellow'} 글제목={글제목} 글제목변경={글제목변경}/> : null
       }
       
       
@@ -72,5 +72,5 @@ function Modal(props) { //Modal은 컴포넌트....
   )
 }
 
-
+//수정 함 해봣더욤
 export default App
